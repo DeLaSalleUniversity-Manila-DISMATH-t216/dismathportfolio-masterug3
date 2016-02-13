@@ -75,4 +75,77 @@ RIP Superman :(
 
 ###Week 3
 
-* New week = new topic. We began with the introduction of rules of inferences. 
+* New week new topic. I learned about the *rules of inference*.
+
+* Had enough of tables? Oh wait. There's more!
+
+|         Name         |   Rule of Inference  |            Tautology           |
+|:--------------------:|:--------------------:|:------------------------------:|
+|    Modus Ponens      |      p, p→q ∴q       |        (p ∧ (p → q)) → q       |
+|      Modus Tollens   |     ¬q, p→q ∴ ¬p     |       (¬q ∧ (p → q)) → ¬p      |
+|Hypothetical Syllogism|     p→q, q→r ∴p→r    |  ((p → q) ∧ (q → r)) → (p → r) |
+|Disjunctive Syllogism |      p∨q, ¬p ∴q      |       ((p ∨ q) ∧ ¬p) → q       |
+|      Addition        |       p ∴p ∨ q       |           p → (p ∨ q)          |
+|      Simplication    |       p ∧ q ∴p       |           (p ∧ q) → p          |
+|       Conjunction    |      p, q ∴p ∧ q     |      ((p) ∧ (q)) → (p ∧ q)     |
+|      Resolution      | p ∨ q, ¬p ∨ r ∴q ∨ r | ((p ∨ q) ∧ (¬p ∨ r)) → (q ∨ r) |
+
+* Sir Melvin also introduced to us methods of proof.
+
+* The First one is Direct Proof.
+- I. **Direct Proof**.
+- Steps:
+  *   1. Assume *p* is True.
+  *   2. Show that *q* is also True.
+
+* I also learned how to define an odd and even number.
+      1.Odd number, 2k+1, where k is an integer
+      2.Even number, 2k, where k is an integer
+* 3 weeks and we already have 3 tables to memorize. Oh well, guess we just have to keep studying. I can't find an image to discribe this week so let's leave it at that.
+
+###Week 4
+
+*This week was all about methods of proofs Oh come on.
+- II. **Proof by Contraposition**.
+- Steps:
+  *   1. Assume *¬q* is True
+  *   2. Show that *¬p* is also True.
+- III. **Vacuous Proof**.
+- Which is basically ¬p → (p→q)
+- Steps:
+  *   1. Show that *¬p* is True **OR** *p* is False.
+  *   2. *p→q* is True when *¬p* is **OR** *p* is False.
+- IV. **Trivial Proof**
+- Basically, q → (p→q)
+- Steps:
+  *   1. Show that *q* is True.
+  *   2. p→q is therefore True when *q* is True.
+- V. **Proof by Contradiction**
+- Prove that the premises will end up FALSE or in Contradiction
+- Steps:
+  *   1. Assume **ALL PREMISES** to be FALSE.
+  *   2. Show that these premises will end up in a Contradiction.
+
+*Here again I thought I knew all the basic concepts about math, but I just learned what a rational number is. To define:
+      1.The real number *r* is *rational* if there exist integers p and q with q≠0 such that **r = p/q**. Otherwise, it is an *irrational number*.
+      2. Q = {a/b | a, b ∈ ℤ} where b≠0, a & b have no common factor other than ±1
+      
+* Wow, there are so many ways to prove stuff. Can this help prove satoru's innocence? I guess not. But it can help me prove other things especially questions during the quiz.
+Satoru-san Will I be able to memorize all this for quiz 1? Satoru-san doesnt approve.
+
+![REVIVAL](https://i.ytimg.com/vi/WJqgDeKoWEU/maxresdefault.jpg)
+
+###Week 5
+- VI. **Proof by Equivalence** (Biconditionals):
+  - P ↔ Q ≡ (P → Q) ∧ (Q → P)
+  - Steps:
+    - Show P → Q is True.
+    - Show Q → P is True.
+  - *Substitution* is not considered a proof.
+- VII, **Mathematical Induction**:
+  - Steps:
+    1. Show P(1) or P(0) to be True.
+    2. Assume P(k) is True.
+    3. Show P(k+1) to be True.
+ 
+* That's all for now! :)
