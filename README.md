@@ -1,4 +1,4 @@
-# dismathportfolio-masterug3
+# dismathportfolio- ImanSM
 Don Santamaria's Dismath Portfolio
 
 ##  Welcome to my DISMATH Portfolio 
