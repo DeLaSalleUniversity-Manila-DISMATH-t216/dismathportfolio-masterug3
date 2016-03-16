@@ -176,6 +176,29 @@ Satoru-san Will I be able to memorize all this for quiz 1? Satoru-san doesnt app
       - Initial Assertion - p - gives the properties that the input values must have
       - Final Assertion - q - gives the properties that the output of the program should have, if the program did what it was told
  
+* NOTE:(1 absence) - Missed topics
+* It's quiz time, and i'm ready to suffer.
+
 ![Q1](http://www.myenglishteacher.eu/blog/wp-content/uploads/2014/10/quiz-1.jpg)
 
+###Week 7
 
+*As expected, Quiz 1 was hell, what more for quiz 2? Sad la.
+
+*New week, new topics. Move on.
+
+- I. SET THEORY
+  - A set is an unordered collection of distinct objects, which may be anything (including other sets).
+  - Ex: {ims,iman,food,Don,Emmanuel} 
+  - Set Notation: curly braces with commas separating out the elements
+  - {iman, iman, iman, food, sleep} is equal to {iman,food,sleep}
+  * Empty set:  { } = ∅
+  * Set Builder Notation 
+  * {x | some property x satisfies}
+
+* Question: Is ∅ = {∅}? 
+* Answer: Lol NOPE
+
+- II. Venn Diagrams
+
+* Venn Diagrams, like those in high school.
