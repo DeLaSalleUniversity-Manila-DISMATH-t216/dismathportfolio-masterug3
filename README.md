@@ -27,7 +27,7 @@ Don Santamaria's Dismath Portfolio
 
 * Overall, week 1 was quite challenging. I began to realize that this subject must not be taken lightly. On to week 2. 
 
-![Week1](http://images.sodahead.com/polls/001391923/jonbabypic_answer_2_xlarge.jpeg)
+![Week1](https://s-media-cache-ak0.pinimg.com/736x/d5/b9/2e/d5b92eaaf8712c78966fd71c8cc7a83b.jpg)
 
 ###Week 2:
 *Dismath just keeps getting more complicated. I learned about logical equivalences. These equivalences are like a set of laws and identities. For example, in trigonometry sin(x) = 1/csc(x), then p ∧ p = p. Quite cool. Here is the full list:
@@ -147,5 +147,35 @@ Satoru-san Will I be able to memorize all this for quiz 1? Satoru-san doesnt app
     1. Show P(1) or P(0) to be True.
     2. Assume P(k) is True.
     3. Show P(k+1) to be True.
+
+###Week 6
+
+*Last few topics before quiz 1. Complicated.
+
+- I. **Summation**
+  - The notation for sum of am, am+1, ..., an is ∑ai=m ai where i is the index of summation.
+    -   Example: ∑ai=m = 1 + 2 + 3 + ... + n
+
+- II. **Recursive/Inductive definition**
+  - Basis step: Specify the value of the function at zero
+  - Recursive step: Give a rule for finding its value at an integer from its values at smaller integers
+    - Example: Find f(1), f(2), f(3), f(4) of the following recursive function.
+- III. **Recursive algorithms**
+
+  - It solves a problem by reducing it to an instance of the same problem with smaller input.
+  - Recall that: Algorithm - finite set of precise instructions for performing a computation/solving a problem.
+    -Examples: Give a recursive algorithm for n!
+- IV. **PROGRAM CORRECTNESS**
+  - Definition: We need proof to show that the program always gives the correct output.
+    - *PROGRAM VERIFICATION*
+      - Proof of correctness of programs
+      - Uses the rules of inference and various proof techniques including mathematical induction
+      - It is said to be correct if it produces the correct output for every possible input
+    - *PARTIAL CORRECTNESS*
+      - Two propositions are used to specify what it means for a program to produce the correct output:
+      - Initial Assertion - p - gives the properties that the input values must have
+      - Final Assertion - q - gives the properties that the output of the program should have, if the program did what it was told
  
-* That's all for now! :)
+![Q1](http://www.myenglishteacher.eu/blog/wp-content/uploads/2014/10/quiz-1.jpg)
+
+
