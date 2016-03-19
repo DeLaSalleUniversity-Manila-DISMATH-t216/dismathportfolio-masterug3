@@ -187,7 +187,7 @@ Satoru-san Will I be able to memorize all this for quiz 1? Satoru-san doesnt app
 
 *New week, new topics. Move on.
 
-- I. SET THEORY
+- I. **SET THEORY**
   - A set is an unordered collection of distinct objects, which may be anything (including other sets).
   - Ex: {ims,iman,food,Don,Emmanuel} 
   - Set Notation: curly braces with commas separating out the elements
@@ -199,6 +199,64 @@ Satoru-san Will I be able to memorize all this for quiz 1? Satoru-san doesnt app
 * Question: Is ∅ = {∅}? 
 * Answer: Lol NOPE
 
-- II. Venn Diagrams
+- II. **Venn Diagrams**
 
 * Venn Diagrams, like those in high school.
+* 
+### Week 8:
+
+* **ALGORITHMS**
+    - A finite set of precise instructions for performing a computation or for solving a problem.
+    - **Properties of Algorithms**: </br>
+        ⇾ _Input_ - has input values from a specified set </br>
+        ⇾ _Output_ - solution to the problem </br>
+        ⇾ _Definiteness_ - defined precisely </br>
+        ⇾ _Correctness_ - produce the correct output values </br>
+        ⇾ _Finiteness_ - produce the desired output </br>
+        ⇾ _Effectiveness_ - perform exactly and in a finite amount of time </br>
+        ⇾ _Generality_ - applicable for all problems of the desired form
+* **PSEUDOCODE**
+    - high - level desciption of an algorithm that uses the structural conventions of a programming language 
+    - intended for human reading
+    - **Preconditions** - describe valid input
+    - **Postconditions** - conditions that the output should satisfy
+
+* Sir Melvin also said something about Google's algorithm. Pretty cool.
+
+![Google](http://searchengineland.com/figz/wp-content/seloads/2014/09/google-blueg-algorithm-seo-ss-1920.jpg)
+
+
+
+### Week 9:
+
+- For this week, we discussed the types of algorithm procedures that we can use when writing a pseudocode
+
+* **SEARCHING ALGORITHMS** </br>
+    ↳ Problem of locating an algorithm in an ordered list
+    - **Binary Search** - comparing the middle values of a list then repeated until the desired output is found.
+
+* **SORTING ALGORITHMS** </br>
+    ↳ Problem of assorting elements into increasing order
+    - **Bubble Sort** - compares the first two elements then interchanging them if they are in the incorrect order.
+    - **Insertion Sort** - compares the second element with the first and inserts it before the first element if it is less. Otherwise, it is inserted after the first element.
+
+* **GREEDY ALGORITHMS** </br>
+    ↳ Algorithms that make what seems to be the "best" choice at each step.
+
+- We also started on the **Growth of Functions** (Big-O Notation)
+
+*Nope no image here*
+
+### Week 10:
+
+- We resume the discussion on the Growth of Functions.
+
+* **Big-O Notation**
+    - Let _f_ and _g_ be functions from R-R; _f(x)_ is _O(g(x))_ if there are constants _C_ and _k_ such that: </br>
+        |f(x)| ≤ C|g(x)| </br>
+    whenever _x > k_.
+
+* **Big-Omega and Big-Theta Notation**
+    - Big-O Notation does not provide a lowerbound for the size of f(x). </br>
+        ↳ **Big-Omega** (Big-Ω) - lower bound </br>
+        ↳ **Big-Theta** (Big-Θ) - both upper and lower bound
